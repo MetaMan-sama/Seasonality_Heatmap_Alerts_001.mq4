@@ -1,0 +1,1 @@
+# Seasonality_Heatmap_Alerts_001.mq4
